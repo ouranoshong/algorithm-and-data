@@ -1,0 +1,6 @@
+#ifndef ALGORITHM_AND_DATA_LIBRARY_H
+#define ALGORITHM_AND_DATA_LIBRARY_H
+
+void hello(void);
+
+#endif //ALGORITHM_AND_DATA_LIBRARY_H
