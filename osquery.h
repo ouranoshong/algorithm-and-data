@@ -1,8 +1,0 @@
-//
-// Created by hong on 2019/9/11.
-//
-
-#ifndef ALGORITHM_AND_DATA_OSQUERY_H
-#define ALGORITHM_AND_DATA_OSQUERY_H
-
-#endif //ALGORITHM_AND_DATA_OSQUERY_H
